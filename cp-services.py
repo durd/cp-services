@@ -1,4 +1,4 @@
-import json, getpass, sys, os
+import json, getpass, sys
 from cpapi import APIClient, APIClientArgs
 
 def dst_mgmt_publish(dst_client):
